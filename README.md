@@ -9,9 +9,8 @@ The codes were tested on macOS Big Sur Version 11.4.
 
 ## Authors
 **Isaac Siu-Shing Wong** @ Raff Lab  
-email: isaac.wong@path.ox.ac.uk / isaacwongsiushing@gmail.com
-  
-**Zachary Willmot** @ Raff Lab
+email: isaac.wong@path.ox.ac.uk / isaacwongsiushing@gmail.com  
+**Zachary Willmot** @ Raff Lab  
 email: Zachary.Wilmott@maths.ox.ac.uk
 
 ## Publication
